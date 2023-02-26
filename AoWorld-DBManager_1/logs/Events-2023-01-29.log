@@ -1,0 +1,64 @@
+[02:11:00] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,237,499
+[02:11:00] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,238,499
+[02:11:00] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,239,499
+[02:11:00] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,240,499
+[02:11:01] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,241,499
+[02:11:01] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,241,500
+[02:11:01] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,241,501
+[02:11:01] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,242,501
+[02:11:02] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,242,503
+[02:11:02] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,242,504
+[02:11:02] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,241,504
+[02:11:02] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,240,504
+[02:11:02] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,239,504
+[02:11:03] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,238,504
+[02:11:03] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,238,503
+[02:11:03] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,239,503
+[02:11:03] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,240,503
+[02:11:04] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,241,503
+[02:11:04] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,242,502
+[02:11:04] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,241,502
+[02:11:05] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,239,502
+[02:11:05] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,238,502
+[02:11:05] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,238,501
+[02:11:05] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,239,501
+[02:11:05] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,240,501
+[02:11:07] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,238,500
+[02:11:07] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,239,500
+[02:11:07] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,240,500
+[02:11:08] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,240,502
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 9, Value: 0, Desc: Lvl: 9, HP: 85 +7
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 10, Value: 0, Desc: Lvl: 10, HP: 93 +8
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 11, Value: 0, Desc: Lvl: 11, HP: 103 +10
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 12, Value: 0, Desc: Lvl: 12, HP: 112 +9
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 13, Value: 0, Desc: Lvl: 13, HP: 121 +9
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 14, Value: 0, Desc: Lvl: 14, HP: 130 +9
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 15, Value: 0, Desc: Lvl: 15, HP: 138 +8
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 16, Value: 0, Desc: Lvl: 16, HP: 148 +10
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 17, Value: 0, Desc: Lvl: 17, HP: 158 +10
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 18, Value: 0, Desc: Lvl: 18, HP: 167 +9
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 19, Value: 0, Desc: Lvl: 19, HP: 177 +10
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 20, Value: 0, Desc: Lvl: 20, HP: 186 +9
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 21, Value: 0, Desc: Lvl: 21, HP: 196 +10
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 22, Value: 0, Desc: Lvl: 22, HP: 204 +8
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 23, Value: 0, Desc: Lvl: 23, HP: 213 +9
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 24, Value: 0, Desc: Lvl: 24, HP: 221 +8
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 25, Value: 0, Desc: Lvl: 25, HP: 229 +8
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 26, Value: 0, Desc: Lvl: 26, HP: 238 +9
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 27, Value: 0, Desc: Lvl: 27, HP: 247 +9
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 28, Value: 0, Desc: Lvl: 28, HP: 255 +8
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 29, Value: 0, Desc: Lvl: 29, HP: 263 +8
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 30, Value: 0, Desc: Lvl: 30, HP: 270 +7
+[05:40:52] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 31, Value: 0, Desc: Lvl: 31, HP: 279 +9
+[05:40:54] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 32, Value: 0, Desc: Lvl: 32, HP: 286 +7
+[05:40:54] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 33, Value: 0, Desc: Lvl: 33, HP: 295 +9
+[05:40:54] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 34, Value: 0, Desc: Lvl: 34, HP: 303 +8
+[05:40:55] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 35, Value: 0, Desc: Lvl: 35, HP: 312 +9
+[05:40:55] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 36, Value: 0, Desc: Lvl: 36, HP: 322 +10
+[05:40:58] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 37, Value: 0, Desc: Lvl: 37, HP: 330 +8
+[05:40:58] Name: testa, Id: 37, Type: 11, Entity: 0, Amount: 38, Value: 0, Desc: Lvl: 38, HP: 339 +9
+[08:14:18] Name: Alfob, Id: 36, Type: 2, Entity: 12, Amount: 100000, Value: 100000, Desc: Pos: 1,1161,880
+[09:11:36] Name: Alfob, Id: 36, Type: 2, Entity: 12, Amount: 100000, Value: 100000, Desc: Pos: 1,658,972
+[09:13:20] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,658,971
+[09:13:21] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,657,971
+[09:13:21] Name: Alfob, Id: 36, Type: 1, Entity: 12, Amount: 10000, Value: 10000, Desc: Pos: 1,656,970
