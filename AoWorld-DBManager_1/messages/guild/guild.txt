@@ -1,0 +1,79 @@
+Tablas
+
+__________________________________
+guild
+__________________________________
+
+guild_id        int   *PRIMARY*
+guild_at        varchar 32 
+guild_name      varchar 32
+
+founder         varchar 32
+leader          varchar 32
+antifaction     tinyint
+alignation      varchar 24
+members         int
+
+last_election_at   varchar 32
+open_election      tinyint
+end_election_at    varchar 32
+
+guild_level         tinyint
+current_exp         int
+next_level_exp      int
+
+url             varchar 64
+guild_news      varchar 256
+desc            varchar 128
+codex           varchar 512
+
+__________________________________
+guild-request
+__________________________________
+
+request_id      int *PRIMARY*
+request_at      varchar 32
+guild_id        int
+name            varchar 32
+details         varchar 256
+
+__________________________________
+guild-member
+__________________________________
+
+member_id       int *PRIMARY*
+member_at       varchar 32
+guild_id        int
+name            varchar 32
+
+__________________________________
+guild-vote
+__________________________________
+
+vote_id         int *PRIMARY*
+vote_at         varchar 32
+guild_id        int
+name            varchar 32
+vote_to         varchar 32
+
+__________________________________
+guild-proposition
+__________________________________
+
+proposition_id  int *PRIMARY*
+proposition_at  varchar 32
+guild_id        int
+guild_to        int
+pending         tinyint
+relation_type   tinyint
+details         varchar 256
+
+__________________________________
+guild-relation
+__________________________________
+
+relation_id     int *PRIMARY*
+relation_at     varchar 32
+guild_id        int
+guild_to        int
+relation_type   tinyint
