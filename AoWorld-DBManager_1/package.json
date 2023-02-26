@@ -1,0 +1,16 @@
+{
+  "name": "dbserver",
+  "version": "1.0.0",
+  "description": "Argentum United DB Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Podavini",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^2.2.0",
+    "luxon": "^3.0.1",
+    "mysql2-utils": "^1.0.1"
+  }
+}
